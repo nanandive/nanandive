@@ -1,10 +1,10 @@
-<div align=center>
+
 [![tistory](https://user-images.githubusercontent.com/115096296/198907140-56479cc1-370e-4bf8-89a3-70aa967de89f.png)](https://nananja.tistory.com/)
 
 
 <!-- contact -->
 
-
+<div align=center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnanandive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nanandive)
  </div>
 

@@ -4,7 +4,7 @@
 <!-- contact -->
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnananjadive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nanandive)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnanandive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nanandive)
  </div>
 
 <!--<div align=center><h1>👋 Hi, I’m @nanandive </h1></div>-->
@@ -24,7 +24,7 @@
 
 <!-- 통계 -->
 ![nanandive's github stats](https://github-readme-stats.vercel.app/api?username=nanandive&show_icons=true&theme=radical) 
-[![nanandive's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nananjadive&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/nanandive)
+[![nanandive's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nanandive&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/nanandive)
 
 
 <!-- 기술 스택 -->

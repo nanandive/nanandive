@@ -1,8 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20nanan's project%20&height=300&fontSize=100&textBg=true)
-<!--
 
-</div>
 <!-- contact -->
 <div align=center>
 

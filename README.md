@@ -1,4 +1,4 @@
-[![tistory]((https://user-images.githubusercontent.com/117037428/198906747-f93882ef-b326-4d44-a9a2-3dc111deff35.png)](https://nananja.tistory.com/)
+[![tistory](https://user-images.githubusercontent.com/117037428/198906747-f93882ef-b326-4d44-a9a2-3dc111deff35.png)](https://nananja.tistory.com/)
 
 
 <!-- contact -->

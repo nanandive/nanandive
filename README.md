@@ -24,7 +24,7 @@
 <!-- <a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/></a>
 <a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a> -->
 <a href="https://velog.io/@nananjadive" target="_blank"><img src="https://img.shields.io/badge/daily dictionary-9999FF?style=flat-square&logo=Vimeo&logoColor=white"  width = 150px height = 30px/></a>
-<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive)  -->
+
 
 
 
@@ -33,7 +33,7 @@
 
 <!-- 통계 -->
 ![nanandive's github stats](https://github-readme-stats.vercel.app/api?username=nanandive&show_icons=true&theme=radical) 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=nananja&postId=497&theme=bluedot)](https://nananja.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%9C%EC%9A%94)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive) 
 
 <!-- 기술 스택 -->
 <div align=center><h2>✍ stack </h2></div>

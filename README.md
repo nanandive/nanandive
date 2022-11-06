@@ -33,7 +33,7 @@
 
 <!-- 통계 -->
 ![nanandive's github stats](https://github-readme-stats.vercel.app/api?username=nanandive&show_icons=true&theme=radical) 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=nananja&postId=entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%9C%EC%9A%94&theme=bluedot)](https://nananja.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%9C%EC%9A%94)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=nananja&postId=497&theme=bluedot)](https://nananja.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%9C%EC%9A%94)
 
 <!-- 기술 스택 -->
 <div align=center><h2>✍ stack </h2></div>

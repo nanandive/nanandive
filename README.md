@@ -25,14 +25,14 @@
 <a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a> -->
 <a href="https://velog.io/@nananjadive" target="_blank"><img src="https://img.shields.io/badge/daily dictionary-9999FF?style=flat-square&logo=Vimeo&logoColor=white"  width = 150px height = 30px/></a>
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive)  -->
-
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_nananja}&postId={insert_default}&theme={insert_bluedot})](https://github.com/loosie/github-readme-tistory-card)
 
 <br>
  <br>
 
 <!-- 통계 -->
 ![nanandive's github stats](https://github-readme-stats.vercel.app/api?username=nanandive&show_icons=true&theme=radical) 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={insert_nananja}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
+
 
 <!-- 기술 스택 -->
 <div align=center><h2>✍ stack </h2></div>

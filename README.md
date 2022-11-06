@@ -1,8 +1,8 @@
 
 <div align=center>
-
+<!-- 
 [![tistory](https://user-images.githubusercontent.com/115096296/198907140-56479cc1-370e-4bf8-89a3-70aa967de89f.png)](https://nananja.tistory.com/)
-</div>
+</div> -->
 <!-- contact -->
 <div align=center>
 

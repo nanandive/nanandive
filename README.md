@@ -33,7 +33,7 @@
 
 <!-- 통계 -->
 ![nanandive's github stats](https://github-readme-stats.vercel.app/api?username=nanandive&show_icons=true&theme=radical) 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_nananja}&postId={insert_default}&theme={insert_bluedot})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_nananja}&postId={insert_postId}&theme={insert_theme})](https://github.com/loosie/github-readme-tistory-card)
 
 <!-- 기술 스택 -->
 <div align=center><h2>✍ stack </h2></div>

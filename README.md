@@ -32,7 +32,7 @@
 
 <!-- 통계 -->
 ![nanandive's github stats](https://github-readme-stats.vercel.app/api?username=nanandive&show_icons=true&theme=radical) 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=nananja&postId=497&theme=bluedot)](https://nananja.tistory.com/497)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={insert_nananja}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
 
 <!-- 기술 스택 -->
 <div align=center><h2>✍ stack </h2></div>

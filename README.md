@@ -32,8 +32,8 @@
  <br>
 
 <!-- 통계 -->
-![nanandive's github stats](https://github-readme-stats.vercel.app/api?username=nanandive&show_icons=true&theme=radical) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive) 
+<!-- ![nanandive's github stats](https://github-readme-stats.vercel.app/api?username=nanandive&show_icons=true&theme=radical)  -->
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive)  -->
 
 <!-- 기술 스택 -->
 <div align=center><h2>✍ stack </h2></div>

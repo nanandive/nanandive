@@ -15,7 +15,7 @@
 
  </div>
 
-<!--<div align=center><h1>👋 Hi, I’m @nanandive </h1></div>-->
+<div align=center><h1>👋 Hi, I’m Yejikim @nanandive </h1></div>
 
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
 <p align='center'>
@@ -61,5 +61,5 @@
 
 
  
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nananjadive&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
+ [![trophy](https://github-profile-trophy.vercel.app/?username=nananjadive&row=1)](https://github.com/ryo-ma/github-profile-trophy) 
 

@@ -15,7 +15,9 @@
 
  </div>
 
-<div align=center><h1>👋 Hi, I’m Yejikim<br>Hello, I'm a junior developer full of passion towards a full stack who is interested in the back end. <br> Although I am studying with a focus on java spring,<br>Currently, I made a project with a used trading project using html, css, js jsp/spring<br> Also, I can implement back office using node and vue  <br> I am trying to become a better developer through various challenges and learning without limiting my ability with a limited perspective  @nanandive </h1></div>
+<div align=center><h1>👋 Hi, I’m Yejikim @nanandive </h1></div>
+<h4 <br>Hello, I'm a junior developer full of passion towards a full stack who is interested in the back end. <br> Although I am studying with a focus on java spring <br> Currently, I made a project with a used trading project using html, css, js jsp/spring<br> Also, I can implement back office using node and vue  <br> I am trying to become a better developer through various challenges and learning without limiting my ability with a limited perspective >
+
 
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
 <p align='center'>

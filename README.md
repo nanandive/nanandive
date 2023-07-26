@@ -16,8 +16,7 @@
  </div>
 
 <div align=center><h1>👋 Hi, I’m Yejikim @nanandive </h1></div>
-<h4 <br>Hello, I'm a junior developer full of passion towards a full stack who is interested in the back end. <br> Although I am studying with a focus on java spring <br> Currently, I made a project with a used trading project using html, css, js jsp/spring<br> Also, I can implement back office using node and vue  <br> I am trying to become a better developer through various challenges and learning without limiting my ability with a limited perspective >
-
+<h4 <br>Hello,  I'm a junior developer filled with passion for full-stack development, particularly interested in backend technologies.  <br> Although I am studying with a focus on java spring <br> Currently, I made a project with a used trading project using html, css, js jsp/spring<br>  I have experience building back-office applications using Node.js and Vue.js.  <br> I am always eager to take on new challenges and constantly learn, without limiting myself to a narrow perspective. I believe in continually expanding my skill set to become a better developer.>
 
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
 <p align='center'>

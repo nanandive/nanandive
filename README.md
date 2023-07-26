@@ -61,5 +61,5 @@
 
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanandive&langs_count=8)](https://github.com/nanandive/github-readme-stats
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanandive&langs_count=8)]
+<!--<img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/> -->

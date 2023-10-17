@@ -34,7 +34,7 @@
 
 <!-- 통계 -->
 <!-- ![nanandive's github stats](https://github-readme-stats.vercel.app/api?username=nanandive&show_icons=true&theme=radical)  -->
-<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananbook)](https://velog.io/@nananbook)   -->
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananbook)](https://velog.io/@nananbook) 
 
 
  

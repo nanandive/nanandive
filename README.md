@@ -15,7 +15,7 @@
 
  </div>
 
-<div align=center><h1>👋 Hi, I’m @nanandive </h1></div>
+<!--<div align=center><h1>👋 Hi, I’m @nanandive </h1></div>-->
 
 
 <br>

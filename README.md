@@ -23,3 +23,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanandive&langs_count=8)]
 <!--<img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/> -->
+
+
+<!--[https://www.linkedin.com/feed/](https://www.linkedin.com/in/yeji-kim-45642b253/) -->
+
+<!--https://www.rocketpunch.com/@itsds1124/posts -->

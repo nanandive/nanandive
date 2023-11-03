@@ -31,7 +31,7 @@
 <!--https://www.rocketpunch.com/@itsds1124/posts -->
 <details> 
 
- <h3>💻 GitHub Profile Stats</h3>
+  <summary> <h3>💻 GitHub Profile Stats</h3></summary>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 

@@ -19,7 +19,7 @@
 <a href="https://nananja.tistory.com/"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=tistory&logoColor=#FF9E0F"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
-recent note- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=[벨로그아이디](https://velog.io/@nananbook))](벨로그링크)
+recent note- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nananbook(https://velog.io/@nananbook))]([벨로그링크](https://velog.io/@nananbook))
 <!--<div align=center><h1>👋 Hi, I’m @nanandive </h1></div>-->
 
 

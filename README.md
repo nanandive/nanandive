@@ -4,8 +4,8 @@
 [![tistory](https://user-images.githubusercontent.com/115096296/198907140-56479cc1-370e-4bf8-89a3-70aa967de89f.png)](https://nananja.tistory.com/)
 </div> -->
 <!-- contact -->
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=itsds"/>
 
-<div align="center">
   
   ### Yeji
   
@@ -14,13 +14,14 @@
   <a href="https://yejang2ndbrain.vercel.app/"><img src="https://img.shields.io/badge/dailynote-3DDC84?style=badge&logo=TILNotes&logoColor=white"/></a> <a href="https://nananja.tistory.com/"><img src="https://img.shields.io/badge/2023notes-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://yejangfolio.netlify.app/"><img src="https://img.shields.io/badge/Resume-ffffff?style=badge&logo=notion&logoColor=black"/></a> <a href="https://yejangfolio.netlify.app/"><img src="https://img.shields.io/badge/Projects-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnanandive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nanandive)
 
+<br>
 
 </div>
 
 <!--<div align=center><h1>👋 Hi, I’m @nanandive </h1></div>-->
 
-<br>
 
+<div align="center">
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanandive&langs_count=8)]-->
 <!--<img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/> -->
@@ -50,9 +51,13 @@
 
 </p>
 
+</div>
 
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
  </p>
 
 </details> 
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={itsds})](https://solved.ac/{itsds})

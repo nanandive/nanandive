@@ -47,7 +47,7 @@
    <h3>👨‍💻 Programming and Markup Languages</h3>
 
 <p>
- ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
 
 </p>
 
@@ -55,9 +55,7 @@
 
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
+    
  </p>
 
 </details> 
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={itsds})](https://solved.ac/{itsds})

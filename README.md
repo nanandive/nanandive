@@ -5,12 +5,13 @@
 <!-- contact -->
    
     
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=itsds"/>
+
 <div align=right
 
 
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=itsds"/>
-
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=eungyeole)](https://velog.io/@eungyeole) 
+  
 </div>
  
   

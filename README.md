@@ -5,14 +5,7 @@
 <!-- contact -->
    
     
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=itsds"/>
 
-<div align=right
-
-
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=eungyeole)](https://velog.io/@eungyeole) 
-  
-</div>
  
   
   ### Yeji
@@ -24,6 +17,7 @@
   <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
 </div>
 <br>
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=itsds"/>
 
 
 <!--<div align=center><h1>👋 Hi, I’m @nanandive </h1></div>-->

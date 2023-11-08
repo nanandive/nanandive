@@ -5,6 +5,7 @@
 </div> -->
 <!-- contact -->
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=itsds"/>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananbook)](https://velog.io/@nananbook) 
 
   
   ### Yeji
@@ -12,7 +13,6 @@
   
   <a href="https://yejang2ndbrain.vercel.app/"><img src="https://img.shields.io/badge/dailynote-3DDC84?style=badge&logo=TILNotes&logoColor=white"/></a> <a href="https://nananja.tistory.com/"><img src="https://img.shields.io/badge/2023notes-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://yejangfolio.netlify.app/"><img src="https://img.shields.io/badge/Resume-ffffff?style=badge&logo=notion&logoColor=black"/></a> <a href="https://yejangfolio.netlify.app/"><img src="https://img.shields.io/badge/Projects-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnanandive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nanandive)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananbook)](https://velog.io/@nananbook) 
   <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
 
 <br>

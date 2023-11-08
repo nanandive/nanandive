@@ -13,6 +13,7 @@
   
   <a href="https://yejang2ndbrain.vercel.app/"><img src="https://img.shields.io/badge/dailynote-3DDC84?style=badge&logo=TILNotes&logoColor=white"/></a> <a href="https://nananja.tistory.com/"><img src="https://img.shields.io/badge/2023notes-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://yejangfolio.netlify.app/"><img src="https://img.shields.io/badge/Resume-ffffff?style=badge&logo=notion&logoColor=black"/></a> <a href="https://yejangfolio.netlify.app/"><img src="https://img.shields.io/badge/Projects-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnanandive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nanandive)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=eungyeole)](https://velog.io/@nananbook) 
 
 <br>
 

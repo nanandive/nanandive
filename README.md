@@ -12,7 +12,7 @@
   
 <div align=center>
 
-<a href="https://nananja.tistory.com/"><img src="https://img.shields.io/badge/2023notes-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> 
+<a href="https://nananja.tistory.com/"><img src="https://img.shields.io/badge/blog-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> 
 <!--<a href="https://yejangfolio.netlify.app/"><img src="https://img.shields.io/badge/Resume-ffffff?style=badge&logo=notion&logoColor=black"/></a> 
 <a href="https://yejangfolio.netlify.app/"><img src="https://img.shields.io/badge/Projects-735998?style=badge&logo=GitHub&logoColor=white"/></a> -->
 

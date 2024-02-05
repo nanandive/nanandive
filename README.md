@@ -14,7 +14,7 @@
 
 <a href="https://nananja.tistory.com/"><img src="https://img.shields.io/badge/blog-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> 
 <!--<a href="https://yejangfolio.netlify.app/"><img src="https://img.shields.io/badge/Resume-ffffff?style=badge&logo=notion&logoColor=black"/></a> -->
-<a href="https://wwww.youtube.com/watch?v=vbuXrG3HOkU/"><img src="https://img.shields.io/badge/Projects-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
+<a href="https://wwww.youtube.com/watch?v=vbuXrG3HOkU/"><img src="https://img.shields.io/badge/Projects-735998?style=badge&logo=\YouTube&logoColor=white"/></a> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnanandive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nanandive)
   <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />

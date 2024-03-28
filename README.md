@@ -34,7 +34,7 @@
 
 
 <!--[https://www.linkedin.com/feed/](https://www.linkedin.com/in/yeji-kim-45642b253/) -->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=happyyehj1124)](https://velog.io/@happyyehj1124) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=happyyehj1124)](https://velog.io/@eungyeole) 
 
 <!--https://www.rocketpunch.com/@itsds1124/posts -->
 <details> 

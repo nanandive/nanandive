@@ -10,17 +10,15 @@
   
   ### Yeji
   
-<div align=center>
+<!--<div align=center>
 
 <a href="https://nananja.tistory.com/"><img src="https://img.shields.io/badge/2023blog-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> 
 <!--<a href="https://yejangfolio.netlify.app/"><img src="https://img.shields.io/badge/Resume-ffffff?style=badge&logo=notion&logoColor=black"/></a> -->
-<a href="https://github.com/nanandive/DummyTalk_back/"><img src="https://img.shields.io/badge/Project-735998?style=badge&logo=\YouTube&logoColor=white"/></a> 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnanandive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nanandive)
-  <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
-</div>
-<br>
+
+
+
 <!--   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=itsds"/>
  -->
 
@@ -60,7 +58,8 @@ TIL
 <br>
 <!-- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> -->
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnanandive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nanandive)
+  <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
 </p>
 
 
